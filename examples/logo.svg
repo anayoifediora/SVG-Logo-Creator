@@ -2,8 +2,8 @@
      width="300" height="300"
      xmlns="http://www.w3.org/2000/svg">
 
-  <circle cx="195" cy="150" r="100" fill="black" />
+  <circle cx="195" cy="150" r="100" fill="blue" />
 
-  <text x="200" y="170" font-size="60" text-anchor="middle" fill="white">Hex</text>
+  <text x="200" y="170" font-size="60" text-anchor="middle" fill="white">ABC</text>
 
 </svg>

@@ -8,8 +8,11 @@ The project was developed using Node.JS and also incorporated code libraries suc
 Working on this project exposed me to several new concepts especially the significance of Node.js. I learnt how to apply the concepts of **Object Oriented Programming**, **Test-Driven-Development** and **Class Constructors**.
 
 ## Mock-up 
+
+![App Interface](./lib/SVG%20logo%20creator.png)
+
 The following link displays the functionality of the application:
-[Video link]()
+[Video link](https://drive.google.com/file/d/1j-4MpYrfM6r_x1Rgn1O-5SMtqMAe9Jrq/view)
 
 ## Link to Github
 
